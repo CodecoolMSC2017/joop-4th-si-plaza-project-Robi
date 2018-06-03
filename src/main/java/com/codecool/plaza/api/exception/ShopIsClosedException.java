@@ -1,4 +1,4 @@
-package com.codecool.plaza.api;
+package com.codecool.plaza.api.exception;
 
 public class ShopIsClosedException extends Exception {
 
